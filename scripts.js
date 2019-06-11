@@ -1,6 +1,6 @@
 'use strict';
 
-const apiKey = '';
+const apiKey = ''; //input personal API key
 
 const searchURL = 'https://developer.nps.gov/api/v1/parks';
 
